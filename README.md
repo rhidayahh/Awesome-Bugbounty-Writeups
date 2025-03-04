@@ -437,7 +437,6 @@
 
 ## Denial of Service (DOS)
 
-
 - [Long String DOS](https://medium.com/@shahjerry33/long-string-dos-6ba8ceab3aa0)
 - [AIRDOS](https://kishanbagaria.com/airdos/)
 - [Denial of Service DOS vulnerability in script loader (CVE-2018-6389)](https://www.pankajinfosec.com/post/700-denial-of-service-dos-vulnerability-in-script-loader-php-cve-2018-6389)
@@ -449,9 +448,9 @@
 - [DOS on Facebook android app using zero width no break characters ](https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89)
 - [Whatsapp DOS vulnerability on android and iOS](https://medium.com/@pratheesh.p.narayanan/whatsapp-dos-vulnerability-on-android-ios-web-7628077d21d4)
 - [Whatsapp DOS vulnerability in iOS android](https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253)
+- [Unremovable Transfer Files in Dropbox](https://bugreader.com/rhidayah@unremovable-transfer-files-in-dropbox-299/)
 
 ## Authentication Bypass 
-
 
 - [Touch ID authentication Bypass on evernote and dropbox iOS apps](https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2)
 - [Oauth authentication bypass on airbnb acquistion using wierd 1 char open redirect](https://xpoc.pro/oauth-authentication-bypass-on-airbnb-acquisition-using-weird-1-char-open-redirect/)
@@ -465,6 +464,7 @@
 - [Authentication Bypass on airbnb via oauth tokens theft](https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/)
 - [Inspect element leads to stripe account lockout authentication Bypass](https://www.jonbottarini.com/2017/04/03/inspect-element-leads-to-stripe-account-lockout-authentication-bypass/)
 - [Authentication bypass on SSO ubnt.com](https://www.arneswinnen.net/2016/11/authentication-bypass-on-sso-ubnt-com-via-subdomain-takeover-of-ping-ubnt-com/)
+- [Removed Collaborators Can Delete Pins on Pinterest Group Boards](https://bugreader.com/rhidayah@removed-collaborators-can-delete-pins-on-pinterest-group-boards-298/)
 
 ## SQL Injection(SQLI)
 
